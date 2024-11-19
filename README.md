@@ -6,33 +6,8 @@
    <title>hey</title>
    
     <link rel="stylesheet" href="style.css">
-   
-   </head>
-    
-body {
-  
-  
- background-color: black;
+     </head>
 
-h1 {
- color: Cornsilk;
- font-family: cursive;
-}
-h2 {
- color: cornsilk;
-}
-p {
- color: cornsilk;
-  font-size: bold;
-  font-family: cursive;
-}
-a {
- color: pink;
- font-family: cursive;
-}
-}
-
-     
 <h1> Hi i am Kaif Khan </h1>
 
  <h2> About me</h2>
